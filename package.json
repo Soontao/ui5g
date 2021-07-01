@@ -22,7 +22,7 @@
     "@commitlint/config-conventional": "^11.0.0",
     "eslint": "^7.9.0",
     "eslint-config-xo-space": "^0.25.0",
-    "husky": "^4.3.0",
+    "husky": "^7.0.0",
     "standard-version": "^9.0.0",
     "yeoman-assert": "^3.1.1",
     "yeoman-test": "^3.0.0"
